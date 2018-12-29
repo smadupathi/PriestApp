@@ -1,0 +1,14 @@
+E:\PriestApp\PriestApp.API\bin\Debug\netcoreapp2.1\PriestApp.API.deps.json
+E:\PriestApp\PriestApp.API\bin\Debug\netcoreapp2.1\PriestApp.API.runtimeconfig.json
+E:\PriestApp\PriestApp.API\bin\Debug\netcoreapp2.1\PriestApp.API.runtimeconfig.dev.json
+E:\PriestApp\PriestApp.API\bin\Debug\netcoreapp2.1\PriestApp.API.dll
+E:\PriestApp\PriestApp.API\bin\Debug\netcoreapp2.1\PriestApp.API.pdb
+E:\PriestApp\PriestApp.API\obj\Debug\netcoreapp2.1\PriestApp.API.csprojAssemblyReference.cache
+E:\PriestApp\PriestApp.API\obj\Debug\netcoreapp2.1\PriestApp.API.csproj.CoreCompileInputs.cache
+E:\PriestApp\PriestApp.API\obj\Debug\netcoreapp2.1\PriestApp.API.RazorAssemblyInfo.cache
+E:\PriestApp\PriestApp.API\obj\Debug\netcoreapp2.1\PriestApp.API.RazorAssemblyInfo.cs
+E:\PriestApp\PriestApp.API\obj\Debug\netcoreapp2.1\PriestApp.API.AssemblyInfoInputs.cache
+E:\PriestApp\PriestApp.API\obj\Debug\netcoreapp2.1\PriestApp.API.AssemblyInfo.cs
+E:\PriestApp\PriestApp.API\obj\Debug\netcoreapp2.1\PriestApp.API.RazorTargetAssemblyInfo.cache
+E:\PriestApp\PriestApp.API\obj\Debug\netcoreapp2.1\PriestApp.API.dll
+E:\PriestApp\PriestApp.API\obj\Debug\netcoreapp2.1\PriestApp.API.pdb
