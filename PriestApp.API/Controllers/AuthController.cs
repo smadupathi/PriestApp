@@ -10,8 +10,8 @@ namespace PriestApp.API.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-        private readonly AuthRepository _repo;
-        public AuthController(AuthRepository repo)
+        private readonly IAuthRepository _repo;
+        public AuthController(IAuthRepository repo)
         {
             _repo = repo;
 
