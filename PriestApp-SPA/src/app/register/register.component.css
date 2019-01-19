@@ -1,0 +1,26 @@
+.signup {
+    width: 400px;
+    height: 300px;  
+    padding: 50px;
+    border: 1px solid red;
+}
+
+.main-login{
+    width: 414px;
+    padding: 10px;
+ 	background-color: #fff;
+    /* shadows and rounded borders */
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 12px 2px rgba(0, 0, 0, 0.3);
+   
+}
+.step1{
+    font-size: 18px;
+    font-style: normal;
+    font-family: helvetica;
+    font-weight: bold;
+}

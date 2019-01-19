@@ -1,0 +1,17 @@
+.bg-image {
+    background-image: url(/assets/images/bg.jpg);
+    background-color: #cccccc;
+    height: 595px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  .welcometext{
+     padding-left: 411px;
+    padding-top: 168px;
+  }
+  .register{ 
+    padding-left: 600px;
+    padding-top: 20px;
+  }

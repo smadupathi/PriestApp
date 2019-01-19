@@ -1,13 +1,55 @@
-<form #registerForm="ngForm" (ngSubmit)="register()">
-<h2 class="text-center text-primary">Sign Up</h2>
-<div class="form-group">
-    <input type="text" class="form-control" name="username" required placeholder="Username" [(ngModel)]="model.username">
-  </div>
-  <div class="form-group">
-      <input type="password" class="form-control" name="password" required placeholder="Password" [(ngModel)]="model.password">
+<div class="container">
+    <div class="row main">
+
+        <div class="main-login ">
+            <div class="step1">Take the first step towards your life partner!</div>
+            <form #registerForm="ngForm" (ngSubmit)="register()">
+                <div class="form-group">
+                    <label class="col-form-label col-form-label-sm" for="inputSmall">Profile for</label>
+                    <select class="custom-select form-control-sm">
+                        <option selected>Select Matrimony Profile for</option>
+                        <option value="1">Myself</option>
+                        <option value="2">Son</option>
+                        <option value="3">Daughter</option>
+                        <option value="2">Brother</option>
+                        <option value="2">Sister</option>
+                        <option value="2">Relative</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label class="col-form-label col-form-label-sm" for="inputSmall">Name</label>
+                    <input class="form-control form-control-sm" type="text" placeholder="Enter Name" [(ngModel)]="model.username"
+                        id="inputSmall" />
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" />
+                    <label class="form-check-label" for="inlineRadio1">Male</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2" />
+                    <label class="form-check-label" for="inlineRadio2">Female</label>
+                </div>
+                <div class="form-group">
+                    <label class="col-form-label col-form-label-sm" for="inputSmall">Date of Birth</label>
+                    <input class="form-control form-control-sm" type="text" placeholder="Enter Name" id="inputSmall" />
+                </div>
+
+                <div class="form-group">
+                    <label class="col-form-label col-form-label-sm" for="inputSmall">Mobile Number</label>
+                    <input class="form-control form-control-sm" type="text" placeholder="Enter Mobile Number" id="inputSmall" />
+                </div>
+                <div class="form-group">
+                    <label class="col-form-label col-form-label-sm" for="inputSmall">Email address</label>
+                    <input type="email" class="form-control form-control-sm" id="inputSmall" aria-describedby="emailHelp"
+                        placeholder="Enter email" />
+                </div>
+                <div class="form-group">
+                    <label class="col-form-label col-form-label-sm" for="inputSmall">Password</label>
+                    <input type="password" class="form-control form-control-sm" id="exampleInputPassword1" placeholder="Password" [(ngModel)]="model.password" />
+                </div>
+                <button type="button" class="btn btn-primary btn-lg">Register</button>
+                <button type="button" class="btn btn-default btn-lg" (click)="cancel()">cancel</button>
+            </form>
+        </div>
     </div>
-    <div class="form-group text-center">
-        <button type="submit" class="btn btn-success">Register</button>
-        <button type="button" class="btn btn-defaulat" (click)="cancel()">Cancel</button>
-    </div>
-</form>
+</div>
