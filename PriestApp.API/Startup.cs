@@ -84,7 +84,7 @@ namespace PriestApp.API
             }
 
             //app.UseHttpsRedirection();
-            seeder.SeedUsers(); //https://www.json-generator.com/
+            //seeder.SeedUsers(); //https://www.json-generator.com/
             app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             app.UseAuthentication();
             app.UseMvc();
