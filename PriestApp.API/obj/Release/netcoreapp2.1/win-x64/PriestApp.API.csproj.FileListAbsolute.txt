@@ -1,0 +1,17 @@
+E:\PriestApp\priestapp.api\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+E:\PriestApp\priestapp.api\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+E:\PriestApp\priestapp.api\bin\Release\netcoreapp2.1\win-x64\PriestApp.API.exe
+E:\PriestApp\priestapp.api\bin\Release\netcoreapp2.1\win-x64\PriestApp.API.deps.json
+E:\PriestApp\priestapp.api\bin\Release\netcoreapp2.1\win-x64\PriestApp.API.runtimeconfig.json
+E:\PriestApp\priestapp.api\bin\Release\netcoreapp2.1\win-x64\PriestApp.API.runtimeconfig.dev.json
+E:\PriestApp\priestapp.api\bin\Release\netcoreapp2.1\win-x64\PriestApp.API.dll
+E:\PriestApp\priestapp.api\bin\Release\netcoreapp2.1\win-x64\PriestApp.API.pdb
+E:\PriestApp\priestapp.api\obj\Release\netcoreapp2.1\win-x64\PriestApp.API.csprojAssemblyReference.cache
+E:\PriestApp\priestapp.api\obj\Release\netcoreapp2.1\win-x64\PriestApp.API.csproj.CoreCompileInputs.cache
+E:\PriestApp\priestapp.api\obj\Release\netcoreapp2.1\win-x64\PriestApp.API.RazorAssemblyInfo.cache
+E:\PriestApp\priestapp.api\obj\Release\netcoreapp2.1\win-x64\PriestApp.API.RazorAssemblyInfo.cs
+E:\PriestApp\priestapp.api\obj\Release\netcoreapp2.1\win-x64\PriestApp.API.AssemblyInfoInputs.cache
+E:\PriestApp\priestapp.api\obj\Release\netcoreapp2.1\win-x64\PriestApp.API.AssemblyInfo.cs
+E:\PriestApp\priestapp.api\obj\Release\netcoreapp2.1\win-x64\PriestApp.API.RazorTargetAssemblyInfo.cache
+E:\PriestApp\priestapp.api\obj\Release\netcoreapp2.1\win-x64\PriestApp.API.dll
+E:\PriestApp\priestapp.api\obj\Release\netcoreapp2.1\win-x64\PriestApp.API.pdb
